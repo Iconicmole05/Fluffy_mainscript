@@ -7,7 +7,7 @@
 <h1>Der magische Trunk</h1>
 <br>
 
-<h3><u>Zutaten :</u></h3>
+<h3>Zutaten :</h3>
 
 <ul>
     <li>Saft einer frischen Limette</li>
@@ -18,7 +18,7 @@
     <a href="/shop"><li>Fluffy Bitterlemon</li></a>  
 </ul>
 
-<h3>Zubereitung:</h3>
+<h3>Zubereitung :</h3>
 
 <p>Limette auspressen und den Saft in ein Glas geben, etwas Kümmel hinzugeben und mit Fluffy Bitterlemon und auffüllen.
 <br>Die Zitrone in Scheiben schneiden und einer dieser am Glasrand anbringen, je nach Geschmack einen <a href="https://www.kitchenstories.com/de/rezepte/der-perfekte-zuckerrand"> Zuckerrand </a>ergänzen.

@@ -8,7 +8,7 @@
 <h1>Der Erfrischer</h1>
 <br>
 
-<h3><u>Zutaten :</u></h3>
+<h3>Zutaten :</h3>
 
 <ul>
     <li>Saft einer frischen Zitrone</li>
@@ -16,7 +16,7 @@
     <a href="/shop"><li>Eine Fluffygetränkedose (Zitrone oder Orange)</li></a>  
 </ul>
 
-<h3>Zubereitung:</h3>
+<h3>Zubereitung :</h3>
 
 
 <p>Die Zitone auspressen und den Saft in ein Glas geben, crushed-Ice bis zum Glasrand aufüllen und zum Schluss mit Fluffy aufgießen.

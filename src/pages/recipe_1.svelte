@@ -8,7 +8,7 @@
 <h1>Der schnelle Läufer</h1>
 <br>
 
-<h3><u>Zutaten :</u></h3>
+<h3>Zutaten :</h3>
 
 <ul>
     <li>1 frische Apfelsine</li>
@@ -19,7 +19,7 @@
     <a href="/shop"><li>Fluffy Orangenlimonade</li> </a>
 </ul>
 
-<h3>Zubereitung:</h3>
+<h3>Zubereitung :</h3>
 
 <p>Apfelsine und Apfel schälen und in sehr kleine Stücke schneiden, in ein Glas geben und mit der Fluffy Orangenlimonade verrühren.
 <br> Zum Abschluss 2cl Aperol hinzugeben und mit Zimt und Ingwer verfeinern.</p>
