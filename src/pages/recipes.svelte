@@ -29,3 +29,9 @@
 
 <br>
 </center>
+
+<style>
+    img {
+		border-radius: 20px;
+        }
+</style>

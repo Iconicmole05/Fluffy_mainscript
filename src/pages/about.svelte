@@ -19,3 +19,8 @@
 <img src="/Assets/Hamburg_altona.webp" alt="Unser Standort" height="350px" width="550px">
 <p><i>Hamburg Altona - Hier liegt das Fluffy Headquarter</i></p>
 
+<style>
+    img {
+		border-radius: 20px;
+        }
+</style>

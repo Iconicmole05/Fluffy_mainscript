@@ -25,3 +25,9 @@
 <br>Dieser Cocktail schmeckt nicht nur gut, sondern gibt auch noch starke Beine !</p>
 
 <img src="/Assets/Der_magische_trunk_2.webp" alt="/" height="300px" width="400px" class="row">
+
+<style>
+    img {
+		border-radius: 20px;
+        }
+</style>

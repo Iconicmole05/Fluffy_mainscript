@@ -46,3 +46,10 @@
     <p>Viel Erfolg!</p>
     
 </div>
+
+
+<style>
+    img {
+		border-radius: 20px;
+        }
+</style>

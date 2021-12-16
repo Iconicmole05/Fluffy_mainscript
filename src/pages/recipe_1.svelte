@@ -25,3 +25,9 @@
 <br> Zum Abschluss 2cl Aperol hinzugeben und mit Zimt und Ingwer verfeinern.</p>
 
     <img src="/Assets/Der_schnelle_läufer_2.webp" alt="/" height="300px" width="400px" class="row">
+
+    <style>
+        img {
+            border-radius: 20px;
+            }
+    </style>

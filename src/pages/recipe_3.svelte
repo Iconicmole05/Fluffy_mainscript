@@ -25,3 +25,9 @@
 <br>Dieses Getränk erfrischt mit nur wenigen Zutaten ihren Tag!</p>
 
 <img src="/Assets/Der_erfrischer_2 (1).webp" alt="/" height="300px" width="400px" class="row">
+
+<style>
+    img {
+		border-radius: 20px;
+        }
+</style>

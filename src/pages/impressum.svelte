@@ -7,7 +7,7 @@
 
 
 <div class='impressum'><u><h1>Impressum</h1></u><p>Angaben gemäß § 5 TMG</p><p>Philipp Schering <br> 
-    Musterstraße 69<br> 
+    Limonadenallee 69<br> 
     29593 Schwienau <br> 
     </p><p> <strong>Vertreten durch: </strong><br>
     Philipp Schering<br>
