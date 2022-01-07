@@ -11,7 +11,9 @@ This is a schoolprojekt, made by Philipp Schering. The Company "Fluffy" doesnt e
 This is my first project, criticism and feedback is welcome !
 
 Used Frameworks: Svelte, Routify
+
 Programmed with: HTML and Javasript
+
 Program used: VS Code
 
 Hosted with Vercel
