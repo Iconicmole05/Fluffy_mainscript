@@ -1,6 +1,6 @@
 # Fluffy_mainscript
 
-Please notice, that the site and some assets are written in german.
+Please notice, that the site and some assetnames are written in german.
 
 Site: https://fluffy-limonade.vercel.app/
 
