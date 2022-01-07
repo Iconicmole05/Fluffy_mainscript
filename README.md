@@ -1,11 +1,10 @@
 # Fluffy_mainscript
-Fluffy-Seite
 
-
+Please notice, that the site is written in german.
 
 Site: https://fluffy-limonade.vercel.app/
 
-This is a schoolprojekt, made by Philipp Schering. The Company "Fluffy" doesnt exist in Real Life.
+This is a schoolprojekt, made by Philipp Schering (me). The Company "Fluffy" doesnt exist in Real Life.
 
 *All used pictures are license free, see "README_Bildquellen.txt"
 
