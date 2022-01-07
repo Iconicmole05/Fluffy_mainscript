@@ -10,6 +10,7 @@ This is a schoolprojekt, made by Philipp Schering (me). The Company "Fluffy" doe
 
 This is my first project, criticism and feedback is welcome !
 
+<br>
 
 Used Frameworks: Svelte, Routify
 
