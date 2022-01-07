@@ -20,4 +20,5 @@ Programmed with: HTML and Javasript
 
 Program used: VS Code
 
+<br>
 Hosted with Vercel
