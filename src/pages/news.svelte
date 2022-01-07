@@ -19,7 +19,7 @@
             <li>Ein Warengutschein über 50 Euro für alle Produkte der Fluffy-GmbH</li>
         </ol>
     
-       <p>Teilnehmen kann jeder der mindestens 18 Jahre alt ist - Mitmachen kann man noch bis zum 10.1.2022 </p>
+       <p>Teilnehmen kann jeder der mindestens 18 Jahre alt ist - Mitmachen kann man noch bis zum 10.01.2022 </p>
        <p>Die Preisfrage lautet: Wie viele Mitarbeiter hat die Fluffy GmbH zur Zeit?</p>
        
     
