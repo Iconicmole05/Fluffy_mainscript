@@ -1,5 +1,5 @@
 # Fluffy_mainscript
-Die Fluffy GMBH Seite
+Fluffy-Seite
 
 
 
